@@ -45,7 +45,7 @@
   }
   .modal .modal-tb .modal-con input[type=text], .form-qw {
     color: #b4b8c3;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 55px;
@@ -93,7 +93,7 @@
   .v-page-head1 h2 {
     max-width: 533px;
     color: #d3d4d8;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 24px;
@@ -139,10 +139,10 @@
     vertical-align: top;
     text-transform: uppercase;
     line-height: 48px;
-    font-family: 'Montserrat', sans-serif;
+  
   }
   .v-page-head1 .tit-st1 .ev-tit-ov1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   .v-page-head1 .tit-st1 .up-ic1 {
     background: url(../img/flag1.png);
@@ -165,7 +165,7 @@
     top: 35px;
     right: -12px;
     color: #d3d4d8;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 14px;
     font-weight: 300;
   }
@@ -180,7 +180,7 @@
     color: #675537;
     text-decoration: line-through;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 14px;
     display: block;
     line-height: 14px;
@@ -199,7 +199,7 @@
     font-weight: normal;
     color: white;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 27px;
     line-height: 27px;
     display: block;
@@ -230,7 +230,7 @@
     font-size: 31px;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
   }
   @media screen and (max-width: 780px) {
     .b-what1 .tit-st1 {
@@ -238,7 +238,7 @@
     }
   }
   .b-what1 .tit-st1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   .b-what1 ul {
     *zoom: 1;
@@ -268,7 +268,7 @@
     width: auto !important;
     padding-left: 28px;
     color: #b7bac3;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 400;
     line-height: 20px;
@@ -302,10 +302,10 @@
     color: #D9D9D9;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
   }
   .video-bl1 .tit-st1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   @media screen and (max-width: 780px) {
     .video-bl1 .tit-st1 {
@@ -370,10 +370,10 @@
     color: white;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
   }
   .for-bl1 .tit-st1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   @media screen and (max-width: 780px) {
     .for-bl1 .tit-st1 {
@@ -389,7 +389,7 @@
     padding-bottom: 55px;
     color: #cbd6f1;
     font-size: 16px;
-    font-family: 'Montserrat', sans-serif;
+  
     font-weight: 400;
     padding-left: 60px;
     position: relative;
@@ -437,10 +437,10 @@
     color: #D9D9D9;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
   }
   .word-bl1 .tit-st1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   @media screen and (max-width: 780px) {
     .word-bl1 .tit-st1 {
@@ -523,11 +523,11 @@
     color: white;
     font-size: 48px;
     font-weight: 400;
-    font-family: 'Montserrat', sans-serif;
+  
     padding-bottom: 33px;
   }
   .ord-bl1 .tit-st1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   @media screen and (max-width: 780px) {
     .ord-bl1 .tit-st1 {
@@ -541,7 +541,7 @@
     padding-bottom: 60px;
     max-width: 740px;
     color: #d3d4d8;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 400;
     line-height: 20px;
@@ -558,7 +558,7 @@
   }
   .ord-bl1 p.p1 {
     color: #707176;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 12px;
     font-weight: 400;
     line-height: 20px;
@@ -589,7 +589,7 @@
     -o-border-radius: 2px;
     border-radius: 2px;
     color: #b4b8c3;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 50px;
@@ -645,12 +645,12 @@
     font-size: 48px;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
     text-align: center;
     padding-bottom: 70px;
   }
   .ev-one1 .tit-st1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   @media screen and (max-width: 780px) {
     .ev-one1 .tit-st1 {
@@ -660,7 +660,7 @@
   .ev-one1 p {
     padding-bottom: 25px;
     color: #D9D9D9;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 24px;
@@ -685,10 +685,10 @@
     color: #D9D9D9;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
   }
   .faq-page h1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   @media screen and (max-width: 760px) {
     .faq-page h1 {
@@ -707,7 +707,7 @@
   .faq-page .qq1 p {
     color: #646874;
     padding-bottom: 27px;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     text-align: center;
   }
@@ -752,7 +752,7 @@
     display: block;
     text-align: center;
     color: #D9D9D9;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 13px;
     font-weight: 500;
     line-height: 14px;
@@ -800,7 +800,7 @@
     width: 100%;
     display: block;
     resize: none;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     color: #333333;
@@ -873,7 +873,7 @@
   }
   .faq-page .qq1 .rr-text-des1 .over-text1 p {
     color: #3f424c;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 24px;
@@ -882,7 +882,7 @@
   }
   .faq-page .qq1 .rr-text-des1 .over-text1 p.p1, .faq-page .qq1 .rr-text-des1 .over-text1 p.p1 a {
     color: #babcbe;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 14px;
     font-weight: 300;
   }
@@ -905,7 +905,7 @@
     padding-left: 11px;
     position: relative;
     color: #3f424c;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 24px;
@@ -966,7 +966,7 @@
     -o-border-radius: 2px;
     border-radius: 2px;
     color: #3f424c;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 50px;
@@ -1010,7 +1010,7 @@
   .faq-page .rr-btn-sel1 .jq-selectbox li {
     padding: 9px 5px 9px 21px;
     color: #3f424c;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     display: block;
     font-weight: 300;
@@ -1030,10 +1030,10 @@
     color: #D9D9D9;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
   }
   .tikets-all1 .tit-st1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   @media screen and (max-width: 760px) {
     .tikets-all1 .tit-st1 {
@@ -1069,7 +1069,7 @@
   .tikets-all1 .tit-top1 .chose-bl1 .over-ft1 {
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
     -webkit-border-radius: 3px 3px 0 0;
     -moz-border-radius: 3px 3px 0 0;
     border-radius: 3px 3px 0 0;
@@ -1094,7 +1094,7 @@
     text-decoration: underline;
   }
   .tikets-all1 .tit-top1 .chose-bl1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   .tikets-all1 .tit-top1 .chose-bl1 .curr-t1 {
     display: block;
@@ -1157,7 +1157,7 @@
   }
   .tikets-all1 .qq1 .tit-qq1 {
     color: #40FF8C;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 18px;
     font-weight: 700;
     cursor: pointer;
@@ -1228,7 +1228,7 @@
     font-weight: normal;
     color: white;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 20px;
     display: block;
     font-weight: 700;
@@ -1243,7 +1243,7 @@
   }
   .tikets-all1 .qq1 .hide-qq1 .bl-item11 .ov-text-bl11 .tit-y1 {
     color: #24262a;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
@@ -1258,7 +1258,7 @@
   }
   .tikets-all1 .qq1 .hide-qq1 .bl-item11 .ov-text-bl11 p {
     color: #3f424c;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 24px;
@@ -1282,7 +1282,7 @@
     text-align: center;
     line-height: 50px;
     color: #646874;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 400;
   }
@@ -1351,7 +1351,7 @@
   .tikets-all1 .qq1 .hide-qq1 .bl-item1 .date1 {
     float: right;
     color: #babcbe;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 14px;
     font-weight: 300;
     line-height: 14px;
@@ -1372,7 +1372,7 @@
   }
   .tikets-all1 .qq1 .hide-qq1 .bl-item1 .ll-text div {
     color: #24262a;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
@@ -1391,7 +1391,7 @@
   }
   .tikets-all1 .qq1 .hide-qq1 .bl-item1 .ll-text p {
     color: #3f424c;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 24px;
@@ -1424,7 +1424,7 @@
     text-align: center;
     line-height: 50px;
     color: #646874;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 400;
   }
@@ -1544,10 +1544,10 @@
     color: #D9D9D9;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
   }
   .prod1 h1 span {
-    font-family: 'Montserrat', sans-serif;
+  
   }
   @media screen and (max-width: 760px) {
     .prod1 h1 {
@@ -1590,7 +1590,7 @@
     font-weight: normal;
     color: white;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 26px;
     display: block;
     font-weight: 700;
@@ -1640,7 +1640,7 @@
   }
   .prod1 .prod-st1 .rr-text-p1 .tit-t1 {
     color: #e2e2e2;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
@@ -1656,7 +1656,7 @@
   }
   .prod1 .prod-st1 .rr-text-p1 p {
     color: #e0e0e0;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 24px;
@@ -1717,7 +1717,7 @@
   }
   .form-v1 .tit-form-v1 {
     color: #24262a;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
@@ -1728,7 +1728,7 @@
     margin: 0 20%;
     margin-bottom: 2px;
     color: #333333;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 14px;
   }
   .form-v1 .ip1 input[type=text].readonly {
@@ -1750,7 +1750,7 @@
     width: 100%;
     height: 50px;
     color: #333333;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 15px;
     font-weight: 300;
     line-height: 50px;
@@ -1784,7 +1784,7 @@
     -o-border-radius: 2px;
     border-radius: 2px;
     color: #3f424c;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     line-height: 50px;
@@ -1826,7 +1826,7 @@
   .form-v1 .ip2 .jq-selectbox li {
     padding: 9px 5px 9px 10px;
     color: #3f424c;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     display: block;
     font-weight: 300;
@@ -1844,7 +1844,7 @@
     bottom: 20px;
     width: 350px;
     z-index: 9999;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
   }
@@ -2033,7 +2033,7 @@
   }
   
   .ov-cont1 b i a {
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 300;
     color: #D9D9D9;
@@ -2054,7 +2054,7 @@
     height: 50px;
     line-height: 50px;
     color: #3f372a;
-    font-family: 'Montserrat', sans-serif;
+  
     font-size: 16px;
     font-weight: 500;
     text-transform: uppercase;
@@ -2134,7 +2134,6 @@
   .wer-text-12 {
     padding-bottom: 10px !important;
     color: white !important;
-    font-family: 'Montserrat', sans-serif !important;
     font-size: 30px !important;
     font-weight: 400 !important;
     line-height: 41px !important;
@@ -2153,4 +2152,10 @@
 
 .bl1 .ov1 .item1:hover .rr1 div span {
   text-align: start !important;
+}
+
+@media screen and (max-width: 962px) {
+  .bl1 .ov1 .item1 .rr1 div span {
+    text-align: start !important;
+  }
 }
