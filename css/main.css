@@ -45,7 +45,6 @@
   }
   .modal .modal-tb .modal-con input[type=text], .form-qw {
     color: #b4b8c3;
-  
     font-size: 16px;
     font-weight: 300;
     line-height: 55px;
@@ -59,7 +58,7 @@
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
     -o-border-radius: 2px;
-    border-radius: 2px;
+    border-radius: 30px;
     display: block;
     margin: auto;
     color: rgb(255, 255, 255);
@@ -139,9 +138,6 @@
     vertical-align: top;
     text-transform: uppercase;
     line-height: 48px;
-  
-  }
-  .v-page-head1 .tit-st1 .ev-tit-ov1 span {
   
   }
   .v-page-head1 .tit-st1 .up-ic1 {
@@ -237,9 +233,6 @@
       padding: 40px 0;
     }
   }
-  .b-what1 .tit-st1 span {
-  
-  }
   .b-what1 ul {
     *zoom: 1;
     display: block;
@@ -302,9 +295,6 @@
     color: #D9D9D9;
     font-weight: 400;
     text-transform: uppercase;
-  
-  }
-  .video-bl1 .tit-st1 span {
   
   }
   @media screen and (max-width: 780px) {
@@ -372,9 +362,6 @@
     text-transform: uppercase;
   
   }
-  .for-bl1 .tit-st1 span {
-  
-  }
   @media screen and (max-width: 780px) {
     .for-bl1 .tit-st1 {
       padding: 40px 0;
@@ -439,9 +426,7 @@
     text-transform: uppercase;
   
   }
-  .word-bl1 .tit-st1 span {
-  
-  }
+
   @media screen and (max-width: 780px) {
     .word-bl1 .tit-st1 {
       padding: 40px 0;
@@ -526,9 +511,7 @@
   
     padding-bottom: 33px;
   }
-  .ord-bl1 .tit-st1 span {
-  
-  }
+
   @media screen and (max-width: 780px) {
     .ord-bl1 .tit-st1 {
       padding-bottom: 20px;
@@ -649,9 +632,7 @@
     text-align: center;
     padding-bottom: 70px;
   }
-  .ev-one1 .tit-st1 span {
-  
-  }
+
   @media screen and (max-width: 780px) {
     .ev-one1 .tit-st1 {
       padding-bottom: 40px;
@@ -687,9 +668,7 @@
     text-transform: uppercase;
   
   }
-  .faq-page h1 span {
-  
-  }
+
   @media screen and (max-width: 760px) {
     .faq-page h1 {
       padding-bottom: 40px;
@@ -888,7 +867,6 @@
   }
   .faq-page .qq1 .rr-text-des1 .over-text1 p.p1 span {
     display: inline-block;
-    float: right;
     cursor: default;
   }
   .faq-page .qq1 .rr-text-des1 .over-text1 p.p1 a {
@@ -1032,9 +1010,7 @@
     text-transform: uppercase;
   
   }
-  .tikets-all1 .tit-st1 span {
-  
-  }
+
   @media screen and (max-width: 760px) {
     .tikets-all1 .tit-st1 {
       padding-bottom: 40px;
@@ -1093,9 +1069,7 @@
   .tikets-all1 .tit-top1 .chose-bl1 a:hover {
     text-decoration: underline;
   }
-  .tikets-all1 .tit-top1 .chose-bl1 span {
-  
-  }
+
   .tikets-all1 .tit-top1 .chose-bl1 .curr-t1 {
     display: block;
     height: 66px;
@@ -1546,9 +1520,7 @@
     text-transform: uppercase;
   
   }
-  .prod1 h1 span {
-  
-  }
+
   @media screen and (max-width: 760px) {
     .prod1 h1 {
       padding-bottom: 40px;
@@ -2045,7 +2017,7 @@
     color: #f7fff4;
   }
   
-  .bttn.qw {
+  .bttn.qw, .b3 .ord1, .rt2, .blue {
     -webkit-transition: 0.5s linear;
     -moz-transition: 0.5s linear;
     -o-transition: 0.5s linear;
@@ -2066,9 +2038,18 @@
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
     -o-border-radius: 2px;
-    border-radius: 2px;
+    border-radius: 100px;
   }
   
+  .textarea-form {
+    padding-top: 10px;
+    height: 80px;
+  }
+
+
+  .bttn.qw:hover, .b3 .ord1:hover, .rt2:hover, .blue:hover {
+    background-color: #28a058
+  }
   
   .item1.qw {
     width: 100%;
@@ -2093,7 +2074,7 @@
   
   .bl-2 {
     position: absolute;
-    bottom: 0;
+    bottom: -40px;
     transform: translate(25, 0);
     left: 50%;
     margin-right: -50%;
@@ -2134,10 +2115,9 @@
   .wer-text-12 {
     padding-bottom: 10px !important;
     color: white !important;
-    font-size: 30px !important;
+    font-size: 18px !important;
     font-weight: 400 !important;
-    line-height: 41px !important;
-    text-transform: uppercase !important;
+    line-height: 25px !important;
   }
 
 .des13 {
@@ -2151,6 +2131,7 @@
 }
 
 .bl1 .ov1 .item1:hover .rr1 div span {
+  margin-top: 20px;
   text-align: start !important;
 }
 
@@ -2158,4 +2139,18 @@
   .bl1 .ov1 .item1 .rr1 div span {
     text-align: start !important;
   }
+}
+
+body, html, #page {
+  background: #131413;
+  background-color: #131413;
+}
+
+.ord1:hover {
+  color: #1a1c21;
+}
+
+.ul-list::before {
+  content: ">";
+  color: #40FF8C;
 }

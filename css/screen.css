@@ -12,7 +12,7 @@ output, ruby, section, summary, time, mark, audio, video {
   padding: 0;
   border: 0;
   vertical-align: baseline;
-  font-weight: 600 !important;
+  font-weight: 400 !important;
 }
 
 * {
@@ -321,9 +321,7 @@ a, input[type=submit] {
   line-height: 48px;
   margin-bottom: 26px;
 }
-.b1 .dc1 .title1 span {
 
-}
 @media screen and (max-width: 1072px) {
   .b1 .dc1 .title1 {
     font-size: 38px;
@@ -1262,9 +1260,7 @@ a, input[type=submit] {
 .bl1 .tit1 span {
   font-family: ROBO;
 }
-.bl1 .tit1.tit11 span {
 
-}
 .bl1 .ov1 {
   position: relative;
   width: 106%;
@@ -1536,9 +1532,7 @@ a, input[type=submit] {
 
   padding: 90px 0 110px 0;
 }
-.b2 .title1 span {
 
-}
 @media screen and (max-width: 874px) {
   .b2 .title1 {
     padding-top: 30px;
@@ -1552,7 +1546,7 @@ a, input[type=submit] {
   margin: auto;
   text-align: center;
   background: url(../img/st1.png) 65px 68px no-repeat;
-  min-height: 167px;
+  min-height: 59px;
 }
 @media screen and (max-width: 874px) {
   .b2 .ov-et1 {
@@ -1677,14 +1671,11 @@ a, input[type=submit] {
     font-size: 37px;
   }
 }
-.b3 .title1 span {
 
-}
-.b3 .ord1 {
+.b3 .ord1, .rt2 {
   width: 208px;
   height: 50px;
   line-height: 50px;
-  box-shadow: 0 2px 2px #39872f;
 }
 
 .question {
@@ -1709,9 +1700,7 @@ a, input[type=submit] {
     padding-bottom: 40px;
   }
 }
-.question .title1 span {
 
-}
 .question p {
   padding-bottom: 30px;
   color: #D9D9D9;
@@ -1943,7 +1932,7 @@ a, input[type=submit] {
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
   -o-border-radius: 2px;
-  border-radius: 2px;
+  border-radius: 40px;
   text-align: center;
   margin: auto;
   position: relative;
@@ -1958,8 +1947,8 @@ a, input[type=submit] {
 }
 .modal .modal-tb .modal-con .close1 {
   position: absolute;
-  top: -15px;
-  right: -15px;
+  top: -10px;
+  right: -10px;
   cursor: pointer;
   background: url('../img/icons-s308205e1b2.png') 0 -1044px no-repeat;
   width: 33px;
